@@ -9,6 +9,7 @@ featuredLinks:
   startHere:
     - /repositories/creating-and-managing-repositories/cloning-a-repository
     - /repositories/creating-and-managing-repositories/restoring-a-deleted-repository
+    -/repositories/creating-a-folder
     - /repositories/working-with-files/managing-files/adding-a-file-to-a-repository
     - /repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
   popular:
